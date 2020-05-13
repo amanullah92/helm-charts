@@ -1,0 +1,6 @@
+bind 0.0.0.0
+cluster-enabled yes
+maxmemory 10mb
+maxmemory-policy allkeys-lru
+logfile /var/log/redis.log
+loglevel debug
