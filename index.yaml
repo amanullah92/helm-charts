@@ -2,20 +2,20 @@ apiVersion: v1
 entries:
   redis-cluster:
   - apiVersion: v1
-    created: "2020-05-13T12:38:50.294967294+05:30"
+    created: "2020-05-13T12:51:28.737698611+05:30"
     description: Redis-Cluster Helm chart for Kubernetes
-    digest: 7a495db642fe8e7a076dea120add89280d8a88bf9a889f26a9421ed901c7014f
+    digest: 0513cfea5ecae204c8e1acdc135eeab1e5f339749f9a776066c7fb41d7be80d6
     name: redis-cluster
     urls:
-    - https://github.com/amanullah92/helm-charts/redis-cluster-0.0.0.tgz
+    - https://amanullah92.github.io/helm-charts/redis-cluster-0.0.0.tgz
     version: 0.0.0
   redis-operator:
   - apiVersion: v1
-    created: "2020-05-13T12:38:50.295466992+05:30"
+    created: "2020-05-13T12:51:28.738011355+05:30"
     description: Redis-Operator Helm chart for Kubernetes
-    digest: 92b42dffd65da6cd6e4b638e592af690db7876143bb2c497ad608b1a49af18c6
+    digest: 0e3eefa8d338673bba1a002157b10bf14f19cc9a945d50de9456372a287e42af
     name: redis-operator
     urls:
-    - https://github.com/amanullah92/helm-charts/redis-operator-0.0.0.tgz
+    - https://amanullah92.github.io/helm-charts/redis-operator-0.0.0.tgz
     version: 0.0.0
-generated: "2020-05-13T12:38:50.294111651+05:30"
+generated: "2020-05-13T12:51:28.737094575+05:30"
